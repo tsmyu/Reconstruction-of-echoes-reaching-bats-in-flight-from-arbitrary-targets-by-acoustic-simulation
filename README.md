@@ -1,0 +1,11 @@
+
+- cell.dat: Boundary conditions for spatial grid
+- coord: Flight path data 
+- input.dat: Simulation condition setting file
+- MovingReceiver.csv: receiver point path
+- MovingSource.csv: sound point path
+- SourceWave.csv: sound of bat
+- wave.csv: sound wave that is calculated by this simulation
+- WE-FDTD.h: simulation program
+- WE-FDTD.cu: simulation program
+- WE-FDTD.exe: executable file
